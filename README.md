@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Maherab Hossain</h1>
-<h3 align="center">Android and Backend Developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Pranta Saha</h1>
+<h3 align="center">Software Quality Assurance Engineer from Bangladesh</h3>
 
 
 
-- 🌱 I’m currently learning **Dart,Flutter**
+- 🌱 I’m currently learning **SQA**
 
-- 💬 Ask me about **React-Native,PHP,Laravel,JavaScript,C,Dart,Flutter**
+- 💬 Ask me about **React-Native,PHP,Laravel,JavaScript,C,**
 
-- 📫 How to reach me **maherabhossain10@gmail.com**
+- 📫 How to reach me **Prantasaha.cs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
